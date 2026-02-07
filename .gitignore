@@ -1,0 +1,20 @@
+# Node
+node_modules/
+
+# Environment
+.env
+.env.*
+
+# Firebase secrets
+serviceAccountKey.json
+*.key.json
+
+# Builds
+dist/
+build/
+
+# Vite
+.vite/
+
+# OS
+.DS_Store
